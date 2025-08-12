@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\WarehouseInventoryManagementSystem\bin\Debug\WarehouseInventoryManagementSystem.exe.config
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\WarehouseInventoryManagementSystem\bin\Debug\WarehouseInventoryManagementSystem.exe
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\WarehouseInventoryManagementSystem\bin\Debug\WarehouseInventoryManagementSystem.pdb
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\WarehouseInventoryManagementSystem\obj\Debug\WarehouseInventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\WarehouseInventoryManagementSystem\obj\Debug\WarehouseInventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\WarehouseInventoryManagementSystem\obj\Debug\WarehouseInventoryManagementSystem.exe
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\WarehouseInventoryManagementSystem\obj\Debug\WarehouseInventoryManagementSystem.pdb
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\WarehouseInventoryManagementSystem\obj\Debug\WarehouseInventoryManagementSystem.exe.config
