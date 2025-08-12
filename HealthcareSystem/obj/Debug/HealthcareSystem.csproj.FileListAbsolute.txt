@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\HealthcareSystem\bin\Debug\HealthcareSystem.exe.config
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\HealthcareSystem\bin\Debug\HealthcareSystem.exe
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\HealthcareSystem\bin\Debug\HealthcareSystem.pdb
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\HealthcareSystem\obj\Debug\HealthcareSystem.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\HealthcareSystem\obj\Debug\HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\HealthcareSystem\obj\Debug\HealthcareSystem.exe
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\HealthcareSystem\obj\Debug\HealthcareSystem.pdb
