@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\FinanceManagementSystem\bin\Debug\FinanceManagementSystem.exe.config
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\FinanceManagementSystem\bin\Debug\FinanceManagementSystem.exe
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\FinanceManagementSystem\bin\Debug\FinanceManagementSystem.pdb
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.exe
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.pdb
+C:\Users\DELL\Desktop\PROJECTS\DCIT_318_ASSIGNMENT3\FinanceManagementSystem\obj\Debug\FinanceManagementSystem.exe.config
