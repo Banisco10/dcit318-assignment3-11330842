@@ -1,0 +1,4 @@
+Alice Johnson (ID: 101): Score = 85, Grade = A
+Mark Brown (ID: 102): Score = 74, Grade = B
+Jane Smith (ID: 103): Score = 91, Grade = A
+Daniel Green (ID: 104): Score = 68, Grade = C
